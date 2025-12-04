@@ -5,7 +5,7 @@ Dashboard ini bertujuan untuk menganalisis performa penjualan (unit sold) Smartp
 
 
 ## 📸 **Preview Dashboard**
-![Dashboard Preview](image.jpeg)
+![Dashboard Preview](image.JPG)
 
 ## 🔖 **Fitur Utama**
 1. KPI (Unit Sold)
